@@ -35,7 +35,7 @@ input {
 
 img {
     border-radius: 100px;
-    margin: 30px 0px 0px 340px;
+    /* margin: 30px 0px 0px 340px; */
 }
 
 img:hover {
