@@ -12,7 +12,27 @@ ul {
     justify-content: end;
     
 }
+.introduction {
+    /* height: 500px; */
+    /* width: 100%; */
+    /* background-color: black; */
+    display: flex;
+    color: rgb(0, 0, 0);
+    flex-direction: row;
+    /* padding: 100px; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* text-align: left; */
+    /* flex-wrap: wrap; */
+    /* line-height: 3.3em; */
+  }
 
+.profile-photo{
+ margin:21px 48px 0px 42px;
+}
+.name{
+    margin: 90px 0px 0px 500px;   
+}
 ul>li {
     padding: 20px;
 }
